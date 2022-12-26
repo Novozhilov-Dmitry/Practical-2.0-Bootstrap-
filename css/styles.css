@@ -103,6 +103,6 @@ a{
     to bottom,
     rgba(255, 255, 255, 0.7),
     rgba(255, 255, 255, 0.7)),
-     url('/img/backgroundimg.png');
+     url('./img/backgroundimg.png');
     height: 720px;
 }
