@@ -98,11 +98,3 @@ a{
         padding-right: 182px;
     }
 }
-.headerbgimg{
-    background-image: linear-gradient(
-    to bottom,
-    rgba(255, 255, 255, 0.7),
-    rgba(255, 255, 255, 0.7)),
-     url('/img/backgroundimg.png');
-    height: 720px;
-}
